@@ -9,6 +9,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="ruby" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="ruby" width="40" height="40"/>
   </a>
 </p>
