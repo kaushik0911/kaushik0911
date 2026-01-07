@@ -2,8 +2,6 @@
 
 I am a engineer with over 8 years of experience spanning Data Engineering and Software Engineering.
 
-Currently reading for an MSc in Big Data Analytics at Robert Gordon University.
-
 Proven track record in building CDC frameworks, optimizing search systems and managing large scale Ruby on Rails applications.
 
 Scalable data pipelines, search relevance and automated data quality.
