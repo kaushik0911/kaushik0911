@@ -14,7 +14,7 @@ I have worked on global biodiversity tools for the [IUCN Red List](https://www.i
 [Medium](https://medium.com/@kaushikshamantha) /
 [kaushikshamantha@gmail.com](mailto:kaushikshamantha@gmail.com)
 
-Currently I am diving into Functional Programming with Scala.
+Currently exploring the internals of Python Memory Management, focusing on reference counting, cyclic garbage collection and memory allocation strategies.
 I am actively engaged in a socio-economics analysis research project applying data mining and analytical frameworks to understand patterns.
 
 <p align="left">
