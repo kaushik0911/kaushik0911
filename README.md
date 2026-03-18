@@ -1,8 +1,8 @@
 # Hi there, I'm Kaushik Shamantha
 
-I am a engineer with over 8 years of experience spanning Data Engineering and Software Engineering.
+I am an engineer with over 8 years of experience spanning Data Engineering and Software Engineering.
 
-Proven track record in building CDC frameworks, optimizing search systems and managing large scale Ruby on Rails applications.
+Proven track record in building CDC frameworks, optimizing search systems and managing large-scale Ruby on Rails applications.
 
 Scalable data pipelines, search relevance and automated data quality.
 
