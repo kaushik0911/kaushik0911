@@ -1,12 +1,12 @@
 ### About Me
 
-Data-focused software engineer with a strong foundation in backend development, distributed systems and automation. I specialize in designing applications, building reliable APIs and developing data-driven solutions using Python and modern  technologies.
+I’m a data-focused software engineer who loves building clean backend systems, playing with distributed architecture and automating away the boring stuff. Think of me as the person who bridges the gap between massive datasets and smooth, reliable applications—mostly using Python and a mix of modern tech.
 
-~ Fun Fact ~
+Right now, I'm diving deep into a socio-economics research project, using data mining and analytical frameworks to hunt down hidden patterns in human behavior and markets.
 
-I have worked on global biodiversity tools for the [IUCN Red List](https://www.iucnredlist.org/), which manages millions of species records worldwide. This included handling complex species information and geospatial data to support global biodiversity research.
+🌍 A Cool Project I'm Proud Of,
+
+I got to work on the global biodiversity tools for the [IUCN Red List](https://www.iucnredlist.org/), which tracks millions of species records worldwide.
 
 [LinkedIn](https://www.linkedin.com/in/kaushikshamantha/) /
 [Medium](https://medium.com/@kaushikshamantha)
-
-I am actively engaged in a socio-economics analysis research project applying data mining and analytical frameworks to understand hidden patterns.
